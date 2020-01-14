@@ -1,0 +1,1 @@
+cloud configuration for customer and inventory services
